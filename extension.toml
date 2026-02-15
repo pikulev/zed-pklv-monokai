@@ -1,0 +1,7 @@
+id = "pklv-monokai"
+name = "PKLV Monokai"
+version = "0.0.1"
+schema_version = 1
+authors = ["pikulev"]
+description = "Classic Monokai with a warmer touch, tailored for Zed"
+repository = "https://github.com/pikulev/zed/pklv-monokai"
