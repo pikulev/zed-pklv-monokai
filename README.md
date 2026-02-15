@@ -10,11 +10,11 @@ This theme represents a port of the **Monokai** color palette to the [Zed](https
 
 ## Installation
 
-1. Open Zed.
-2. Open the **Extensions** view (`Cmd+Shift+X`).
-3. Search for `PKLV Monokai`.
-4. Click **Install**
-5. Select the theme using the theme selector (`Cmd+K` `Cmd+T`).
+0. Clone the repository
+1. Open Zed
+2. Exec "Install Dev Extensions" (or `Cmd+Shift+X` and push the button in the top right corner)
+3. Select cloned repository folder
+4. Toggle PKLV Monokai in the list of installed extensions
 
 ---
 
